@@ -1,4 +1,4 @@
-# vue-cli
+# Users-CRM app on Vue.js, made with REST API (axios), sorting and pagination.
 
 ## Project setup
 ```
