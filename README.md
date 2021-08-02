@@ -1,5 +1,7 @@
 # Users-CRM app on Vue.js, made with REST API (axios), sorting and pagination.
 
+Demo: https://ostapenko25.github.io/UsersCRM/dist/index.html#/users
+
 ## Project setup
 ```
 npm install
